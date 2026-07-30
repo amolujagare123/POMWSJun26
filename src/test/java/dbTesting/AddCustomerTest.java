@@ -15,5 +15,10 @@ public class AddCustomerTest {
     {
         System.out.println("Commit Test");
     }
+    @Test
+    public void commitTest2()
+    {
+        System.out.println("Commit test2");
+    }
 
 }
