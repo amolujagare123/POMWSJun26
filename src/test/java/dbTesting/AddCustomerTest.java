@@ -10,4 +10,10 @@ public class AddCustomerTest {
         System.out.println("Add customer");
     }
 
+    @Test
+    public void commitTest()
+    {
+        System.out.println("Commit Test");
+    }
+
 }
